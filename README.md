@@ -6,6 +6,8 @@ Software Engineering course "Software Architecture" from my first year of Master
 
 The content of the course is [here](https://github.com/maphdev/M1_Software_Architecture/blob/master/Cours_AL.pdf).
 
+The course focuses mainly on Design Patterns and how to implement them.
+
 The course website is [here](http://www.labri.fr/perso/auber/ALM1GL/index.html).
 
 ## Exercises
