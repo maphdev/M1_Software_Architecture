@@ -1,6 +1,6 @@
 # Software Architecture
 
-Software Engineering course "Software Architecture" from my first year of Master at the University of Bordeaux, France.
+Software Engineering course "Software Architecture" from my first year of Master's at the University of Bordeaux, France.
 
 ## Course
 
